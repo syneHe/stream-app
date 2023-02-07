@@ -2,3 +2,4 @@ streamlit
 trankit
 numpy
 opencv-python
+Pillow
