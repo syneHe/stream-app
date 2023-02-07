@@ -1,0 +1,4 @@
+streamlit
+trankit
+numpy
+opencv-python
