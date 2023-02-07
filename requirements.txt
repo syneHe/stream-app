@@ -2,4 +2,3 @@ streamlit
 trankit
 numpy
 pillow
-opencv-python-headless -i https://pypi.tuna.tsinghua.edu.cn/simple
