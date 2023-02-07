@@ -2,4 +2,3 @@ streamlit
 trankit
 numpy
 opencv-python
-cv2
