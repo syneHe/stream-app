@@ -1,7 +1,6 @@
 import streamlit as st
 from trankit import Pipeline
 
-@st.cache
 def ner(sentence):
     p = Pipeline('english', gpu=False)
     return p.ner(sentence)
